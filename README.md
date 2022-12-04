@@ -9,7 +9,7 @@
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_main"><img src="https://edent.github.io/SuperTinyIcons/images/svg/html5.svg" width="25" alt="HTML5"></a>
 - 📫 How to reach me ...
 <a href="https://www.linkedin.com/in/karanraj06" target="_main"><img src="https://edent.github.io/SuperTinyIcons/images/svg/linkedin.svg" width="25" alt="LinkedIn"></a>
-<a href="karanrajmehta06@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://edent.github.io/SuperTinyIcons/images/svg/gmail.svg" width="25" alt="Gmail"></a>
+[<img src="https://edent.github.io/SuperTinyIcons/images/svg/gmail.svg" width="25" alt="Gmail">](karanrajmehta06@gmail.com)
 
 <!---
 Karanraj06/Karanraj06 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
