@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Karanraj06
 - 👀 I’m interested in Competitive Programming and Web Development
-- 🌱 I’m currently learning Frontend Web Development
+- 🌱 I’m currently learning JavaScript
 - 💞️ Skills ...
 <a href="https://en.cppreference.com/w/c/language" target="_main"><img src="https://img.icons8.com/color/512/c-programming.png" width="25" alt="C"></a>
 <a href="https://en.cppreference.com/w/cpp/language" target="_main"><img src="https://edent.github.io/SuperTinyIcons/images/svg/cplusplus.svg" width="25" alt="C++"></a>
