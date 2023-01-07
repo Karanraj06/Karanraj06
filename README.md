@@ -1,6 +1,9 @@
 - 👋 Hi, I’m @Karanraj06
+
 - 👀 I’m interested in Competitive Programming and Web Development
-- 🌱 I’m currently learning JavaScript
+
+- 🌱 I’m currently learning React
+
 - 💞️ Skills ...
 <a href="https://en.cppreference.com/w/c/language"><img src="https://img.icons8.com/color/512/c-programming.png" width="25" alt="C"></a>
 <a href="https://en.cppreference.com/w/cpp/language"><img src="https://edent.github.io/SuperTinyIcons/images/svg/cplusplus.svg" width="25" alt="C++"></a>
@@ -11,6 +14,7 @@
 <a href="https://getbootstrap.com/"><img src="https://getbootstrap.com/docs/5.3/assets/brand/bootstrap-logo-shadow.png" width="30" alt="Bootstrap"></a>
 <a href="https://tailwindcss.com/"><img src="https://tailwindcss.com/favicons/apple-touch-icon.png?v=3" width="25" alt="Tailwind CSS"></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://camo.githubusercontent.com/9496882abd182958bcea4238ab44f7eb8928d7a4144c150f18f6c55ceb9b4490/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6a6176617363726970742e737667" width="25" alt="JavaScript"></a>
+
 - 📫 How to reach me ...
 <a href="https://www.linkedin.com/in/karanraj06" target="_main"><img src="https://edent.github.io/SuperTinyIcons/images/svg/linkedin.svg" width="25" alt="LinkedIn"></a>
 <a href="mailto:karanrajmehta06@gmail.com" target="_main"><img src="https://edent.github.io/SuperTinyIcons/images/svg/gmail.svg" width="25" alt="Gmail"></a>
