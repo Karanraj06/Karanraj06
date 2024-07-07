@@ -17,7 +17,7 @@
   [![LinkedIn](/assets/linkedin.svg)](https://www.linkedin.com/in/karanraj06/)
 
 - 🌱 Visit my website:
-  [![Link](/assets/link.svg)](https://www.karanraj.me/)
+  [![Link](/assets/link.svg)](https://karanraj.vercel.app/)
 
 - 👀 My GitHub Stats:
 <table align="center">
